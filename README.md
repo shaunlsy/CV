@@ -1,9 +1,12 @@
-## Your Name
+## Shuenn Yuh Low (Shaun)
+
+A highly motivated and technologically savvy graduate, who has recently completed their master’s degree with a 1:1 honours degree. Currently participating in a Software Engineer Bootcamp at Makers Academy to build upon a keen scientific interest and further develop my software skills and knowledge in a practical and fast-paced environment. Eventual career goal is to improve people’s lives and promote sustainability in the industry, with the longer-term aspiration of becoming a fully qualified and experienced Chartered  Engineer.
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
 ## Skills
 
+C, C++, Python, Arduino, LabVIEW
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 #### This Skill
@@ -23,18 +26,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (09/12/19 to Present)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Southampton (09/15 to 07/19)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Masters of Engineering in Mechanical Engineering, specialised in Mechatronics.
+- First Class Honours.
+- Final Year Group Project: The Sirius Bipropellant Rocket.
+- Individual Project: Microstructure and Property of 3D-Printed Aluminium Alloy AlSi10Mg.
 
 #### Any other qualifications
 
@@ -42,14 +46,15 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**Final Year Group Project: The Sirius Bipropellant Rocket.** (start_date to end_date)    
+*Leader of Programming Team*  
+- Design and build a Propellant Delivery System by self-learning an utterly-unfamiliar graphical programming language named LabVIEW.
 
 **Company Name** (start_date to end_date)   
 *Your job title*  
 - Any experience relevent to software development
 
 ## Hobbies
+Design and manufacturing, Robotics, Programming
 
 Any cool stuff that makes you a super part of a software development team
