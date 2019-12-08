@@ -47,15 +47,16 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Experience
 
-**Final Year Group Project: The Sirius Bipropellant Rocket.** (start_date to end_date)    
+**Final Year Group Project: The Sirius Bipropellant Rocket.** (09/18 to 06/19)    
 *Leader of Programming Team*  
 - Design and build a Propellant Delivery System by self-learning an utterly-unfamiliar graphical programming language named LabVIEW.
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**The Beach Bot Project University of Southampton** (09/15 to 05/16)   
+*Team Leader*  
+- Implement the code for robot's mechanism and control and instrumentations using Arduino Programming.
 - Any experience relevent to software development
 
 ## Hobbies
-Design and manufacturing, Robotics, Programming
+Design and manufacturing, Robotics, Programming, Travelling.
 
 Any cool stuff that makes you a super part of a software development team
