@@ -26,14 +26,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (09/12/19 to Present)
-
+#### Software Developer Bootcamp Makers Academy (09/12/19 to Present)
+##### London, UK.
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
 #### University of Southampton (09/15 to 07/19)
+##### Southampton, UK.
 
 - Masters of Engineering in Mechanical Engineering, specialised in Mechatronics.
 - First Class Honours.
