@@ -42,6 +42,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Final Year Group Project: The Sirius Bipropellant Rocket.
 - Individual Project: Microstructure and Property of 3D-Printed Aluminium Alloy AlSi10Mg.
 
+#### Sunway College Johor Bahru (04/14 to 06/15)
+##### Johor, Malaysia.
+
+- Physcis A*
+- Mathematics A*
+-Chemistry A*
+
 #### Any other qualifications
 
 That in some arguable way make you a better software developer or well-rounded person
