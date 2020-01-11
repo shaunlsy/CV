@@ -33,6 +33,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
+- Capbybara, Sinatra
 
 #### University of Southampton (09/15 to 07/19)
 ##### Southampton, UK.
@@ -47,7 +48,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Physcis A*
 - Mathematics A*
--Chemistry A*
+- Chemistry A*
 
 #### Any other qualifications
 
