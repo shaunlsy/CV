@@ -1,14 +1,16 @@
 <h1 align="center"> Shuenn Yuh Low (Shaun) </h1>
 
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
+
 A highly motivated and technologically savvy graduate, who has recently completed their master’s degree with a 1:1 honours degree. Currently participating in a Software Engineer Bootcamp at Makers Academy to build upon a keen scientific interest and further develop my software skills and knowledge in a practical and fast-paced environment. Eventual career goal is to improve people’s lives and promote sustainability in the industry, with the longer-term aspiration of becoming a fully qualified and experienced Chartered  Engineer.
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+<!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech. -->
 
-## Skills
+## :book: <a name="skills">Skills</a>
 
 C, C++, Python, Arduino, LabVIEW
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+<!-- Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 #### This Skill
 
@@ -23,9 +25,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- A link to some on-line evidence (blogs, videos, articles, etc.) -->
 
-## Education
+## :computer: <a name="projects">Projects</a>
+
+Project title | Description	| Technologies		
+--- | --- | ---
+[Dinorun] | Final project which creates a side scrolling 2D game by generating its difficulty level based on the uploaded sound files | JavaScript, Ruby on Rails, PSQL, AWS S3
+[Acebook] | A web clone of Facebook which allows users to post and add friends. | JavaScript, Ruby on Rails, PSQL
+[Makersbnb] | A web clone of Airbnb with a booking system | JavaScipt, Ruby, Sinatra, PSQL
+[Bowling Challenge](https://github.com/shaunlsy/bowling-challenge) | A web front end bowling game that keep track of your score | JavaScript, Jasmine, JQuery
+[Chitter](https://github.com/shaunlsy/chitter-challenge) | A web clone of Twitter that allows the user to post and comment to other posts | Ruby, Rspec, Capybara, Sinatra
+
+
+## :mortar_board: <a name="education">Education</a>
 
 #### Software Developer Bootcamp Makers Academy (09/12/19 to Present)
 ##### London, UK.
@@ -52,9 +65,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+<!-- That in some arguable way make you a better software developer or well-rounded person -->
 
-## Experience
+## :school: <a name="experience">Experience</a>
 
 **Final Year Group Project: The Sirius Bipropellant Rocket.** (09/18 to 06/19)    
 *Leader of Programming Team*  
@@ -65,7 +78,7 @@ That in some arguable way make you a better software developer or well-rounded p
 - Implement the code for robot's mechanism and control and instrumentations using Arduino Programming.
 - Any experience relevent to software development
 
-## Hobbies
-Design and manufacturing, Robotics, Programming, Travelling.
+## :robot: <a name="hobbies">Hobbies</a>
+Design and manufacturing, Funnel Design, Robotics, Programming, Travelling.
 
-Any cool stuff that makes you a super part of a software development team
+<!-- Any cool stuff that makes you a super part of a software development team -->
