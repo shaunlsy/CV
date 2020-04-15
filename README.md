@@ -1,6 +1,6 @@
 <h1 align="center"> Shuenn Yuh Low (Shaun) </h1>
 
-<p align="center">[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | <a href='https://www.linkedin.com/in/shuenn-yuh-low/'>LinkedIn</a></p>
+<p align="center">[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/shuenn-yuh-low/)</p>
 
 A highly motivated and technologically savvy graduate, who has recently completed their master’s degree with a 1:1 honours degree. Currently participating in a Software Engineer Bootcamp at Makers Academy to build upon a keen scientific interest and further develop my software skills and knowledge in a practical and fast-paced environment. Eventual career goal is to improve people’s lives and promote sustainability in the industry, with the longer-term aspiration of becoming a fully qualified and experienced Chartered  Engineer.
 
