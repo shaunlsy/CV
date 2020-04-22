@@ -8,6 +8,10 @@
   </a>
 </h1>
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/)
+
 <p align="center"> <a href='#skills'>Skills</a> | <a href='#projects'>Projects</a> | <a href='#education'>Education</a> | <a href='#experience'>Experience</a> | <a href='#hobbies'>Hobbies</a> | <a href='https://www.linkedin.com/in/shuenn-yuh-low/'>LinkedIn</a></p>
 
 A highly motivated and technologically savvy graduate, who has recently completed their master’s degree with a 1:1 honours degree. Currently participating in a Software Engineer Bootcamp at Makers Academy to build upon a keen scientific interest and further develop my software skills and knowledge in a practical and fast-paced environment. Eventual career goal is to improve people’s lives and promote sustainability in the industry, with the longer-term aspiration of becoming a fully qualified and experienced Chartered  Engineer.
