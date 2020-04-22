@@ -2,15 +2,11 @@
   Shuenn Yuh Low (Shaun) 
   <a href="https://www.linkedin.com/in/shuenn-yuh-low/">
       <img src="https://i.stack.imgur.com/gVE0j.png">
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/shaunlsy">
     <img src="https://i.stack.imgur.com/tskMh.png">
   </a>
 </h1>
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/)
 
 <p align="center"> <a href='#skills'>Skills</a> | <a href='#projects'>Projects</a> | <a href='#education'>Education</a> | <a href='#experience'>Experience</a> | <a href='#hobbies'>Hobbies</a> | <a href='https://www.linkedin.com/in/shuenn-yuh-low/'>LinkedIn</a></p>
 
