@@ -1,7 +1,7 @@
 <h1 align="center"> 
   Shuenn Yuh Low (Shaun) 
-  <a href="https://www.linkedin.com/in/shuenn-yuh-low/" rel="nofollow noreferrer">
-      <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">
+  <a href="https://www.linkedin.com/in/shuenn-yuh-low/">
+      <img src="https://i.stack.imgur.com/gVE0j.png">
   </a>
   <a href="https://github.com/shaunlsy">
     <img src="https://i.stack.imgur.com/tskMh.png">
