@@ -10,6 +10,10 @@
 
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="shuenn-yuh-low"><a class="LI-simple-link" href='https://uk.linkedin.com/in/shuenn-yuh-low?trk=profile-badge'>Shuenn Yuh Low</a></div>
 
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="shuenn-yuh-low"><a class="LI-simple-link" href='https://uk.linkedin.com/in/shuenn-yuh-low?trk=profile-badge'>Shuenn Yuh Low</a></div>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="shuenn-yuh-low"><a class="LI-simple-link" href='https://uk.linkedin.com/in/shuenn-yuh-low?trk=profile-badge'>Shuenn Yuh Low</a></div>
+
 <p align="center"> <a href='#skills'>Skills</a> | <a href='#projects'>Projects</a> | <a href='#education'>Education</a> | <a href='#experience'>Experience</a> | <a href='#hobbies'>Hobbies</a> | <a href='https://www.linkedin.com/in/shuenn-yuh-low/'>LinkedIn</a></p>
 
 A highly motivated and technologically savvy graduate, who has recently completed their master’s degree with a 1:1 honours degree. Currently participating in a Software Engineer Bootcamp at Makers Academy to build upon a keen scientific interest and further develop my software skills and knowledge in a practical and fast-paced environment. Eventual career goal is to improve people’s lives and promote sustainability in the industry, with the longer-term aspiration of becoming a fully qualified and experienced Chartered  Engineer.
