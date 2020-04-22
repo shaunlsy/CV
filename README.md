@@ -1,10 +1,10 @@
 <h1 align="center"> 
   Shuenn Yuh Low (Shaun) 
   <a href="https://www.linkedin.com/in/shuenn-yuh-low/" rel="nofollow noreferrer">
-      <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+      <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">
   </a> &nbsp; 
   <a href="https://github.com/shaunlsy" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github">
   </a>
 </h1>
 
