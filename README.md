@@ -1,4 +1,12 @@
-<h1 align="center"> Shuenn Yuh Low (Shaun) </h1>
+<h1 align="center"> 
+  Shuenn Yuh Low (Shaun) 
+  <a href="https://www.linkedin.com/in/shuenn-yuh-low/" rel="nofollow noreferrer">
+      <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/shaunlsy" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  </a>
+</h1>
 
 <p align="center"> <a href='#skills'>Skills</a> | <a href='#projects'>Projects</a> | <a href='#education'>Education</a> | <a href='#experience'>Experience</a> | <a href='#hobbies'>Hobbies</a> | <a href='https://www.linkedin.com/in/shuenn-yuh-low/'>LinkedIn</a></p>
 
