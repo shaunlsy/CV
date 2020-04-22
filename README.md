@@ -8,11 +8,8 @@
   </a>
 </h1>
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="shuenn-yuh-low"><a class="LI-simple-link" href='https://uk.linkedin.com/in/shuenn-yuh-low?trk=profile-badge'>Shuenn Yuh Low</a></div>
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="shuenn-yuh-low"><a class="LI-simple-link" href='https://uk.linkedin.com/in/shuenn-yuh-low?trk=profile-badge'>Shuenn Yuh Low</a></div>
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="shuenn-yuh-low"><a class="LI-simple-link" href='https://uk.linkedin.com/in/shuenn-yuh-low?trk=profile-badge'>Shuenn Yuh Low</a></div>
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 <p align="center"> <a href='#skills'>Skills</a> | <a href='#projects'>Projects</a> | <a href='#education'>Education</a> | <a href='#experience'>Experience</a> | <a href='#hobbies'>Hobbies</a> | <a href='https://www.linkedin.com/in/shuenn-yuh-low/'>LinkedIn</a></p>
 
