@@ -1,12 +1,10 @@
 <h1 align="center"> 
   Shuenn Yuh Low (Shaun) 
-  <h2>
-    <a href="https://www.linkedin.com/in/shuenn-yuh-low/" rel="nofollow noreferrer">
-        <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">
-    </a>
-  <h2>
-  <a href="https://github.com/shaunlsy" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github">
+  <a href="https://www.linkedin.com/in/shuenn-yuh-low/" rel="nofollow noreferrer">
+      <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">
+  </a>
+  <a href="https://github.com/shaunlsy">
+    <img src="https://i.stack.imgur.com/tskMh.png">
   </a>
 </h1>
 
