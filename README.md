@@ -31,7 +31,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 Project title | Description	| Technologies		
 --- | --- | ---
-[Dinorun] | Final project which creates a side scrolling 2D game by generating its difficulty level based on the uploaded sound files | JavaScript, Ruby on Rails, PSQL, AWS S3
+[Dinorun](https://github.com/shaunlsy/technodactyl-studios-dinorun) | Final project which creates a side scrolling 2D game by generating its difficulty level based on the uploaded sound files | JavaScript, Ruby on Rails, PSQL, AWS S3
 [Acebook] | A web clone of Facebook which allows users to post and add friends. | JavaScript, Ruby on Rails, PSQL
 [Makersbnb] | A web clone of Airbnb with a booking system | JavaScipt, Ruby, Sinatra, PSQL
 [Bowling Challenge](https://github.com/shaunlsy/bowling-challenge) | A web front end bowling game that keep track of your score | JavaScript, Jasmine, JQuery
