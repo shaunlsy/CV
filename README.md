@@ -16,7 +16,13 @@ A highly motivated and technologically savvy graduate, who has recently complete
 
 ## :book: <a name="skills">Skills</a>
 
-C, C++, Python, Arduino, LabVIEW
+- OOP, TDD, MVC, DDD
+- Agile/XP
+- Programming Languages: Ruby, Rails, JavaScript, C, C++, Python
+- Integrated Development Environment: Arduino Programming
+- Visual Programming Language: LabVIEW Programming
+- Programming Testing Tools: RSpec, Jasmine
+- Web-based test automation software: Capbybara, Sinatra
 
 <!-- Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
