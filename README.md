@@ -10,7 +10,7 @@
 
 <p align="center"> <a href='#skills'>Skills</a> | <a href='#projects'>Projects</a> | <a href='#education'>Education</a> | <a href='#experience'>Experience</a> | <a href='#hobbies'>Hobbies</a> | <a href='https://www.linkedin.com/in/shuenn-yuh-low/'>LinkedIn</a></p>
 
-A highly motivated and technologically savvy graduate, who has recently completed their Software Engineer Bootcamp at Makers Academy to build upon a keen scientific interest and further develop my software skills and knowledge in a practical and fast-paced environment. Eventual career goal is to improve people’s lives and promote sustainability in the industry, with the longer-term aspiration of becoming a fully qualified and experienced Chartered  Engineer.
+A highly motivated and technologically savvy graduate, who has recently completed their Software Engineer Bootcamp at Makers Academy to build upon a keen scientific interest and further develop my software skills and knowledge in a practical and fast-paced environment. Eventual career goal is to improve people’s lives and promote sustainability in the industry, with the longer-term aspiration of becoming a fully qualified and experienced Chartered Engineer.
 
 <!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech. -->
 
