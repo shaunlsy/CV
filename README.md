@@ -17,7 +17,7 @@ A highly motivated and technologically savvy graduate, who has recently complete
 ## :book: <a name="skills">Skills</a>
 
 - Object Oriented Programming (OOP), Test-Driven Development (TDD), Model View Controller (MVC), Domain-driven design (DDD)
-- Agile/XP
+- Agile software development/XP
 - Programming Languages: Ruby, Rails, JavaScript, C, C++, Python
 - Integrated Development Environment: Arduino Programming
 - Visual Programming Language: LabVIEW Programming
