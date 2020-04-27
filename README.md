@@ -16,7 +16,7 @@ A highly motivated and technologically savvy graduate, who has recently complete
 
 ## :book: <a name="skills">Skills</a>
 
-- OOP, TDD, MVC, DDD
+- Object Oriented Programming (OOP), TDD, MVC, DDD
 - Agile/XP
 - Programming Languages: Ruby, Rails, JavaScript, C, C++, Python
 - Integrated Development Environment: Arduino Programming
